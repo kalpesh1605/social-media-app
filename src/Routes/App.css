@@ -1,0 +1,24 @@
+    .content {
+        display: flex;
+    }
+    
+    .sidebar {
+        min-height: 92vh;
+    }
+    
+    .main-content {
+        width: 100%;
+    }
+    
+    .card {
+        width: 70vw;
+        margin: 25px auto;
+    }
+    
+    .createpost {
+        margin: 10px 20px;
+    }
+    
+    .welcomemsg {
+        margin: 60px 0;
+    }
